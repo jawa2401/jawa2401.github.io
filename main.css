@@ -1,0 +1,29 @@
+.songs {
+  font-family: sans-serif;
+}
+a {
+  appearance: button;
+  text-decoration: none;
+}
+body {
+  background-color: #2A3166;
+}
+/* unvisited link */
+a:link {
+  color: #EE7879;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
